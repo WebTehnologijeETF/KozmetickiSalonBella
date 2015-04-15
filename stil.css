@@ -497,8 +497,51 @@ table#cijene td {
     color: #571946;
   
 }
+
+/*Treeview*/
+.treeview 
+{
+    background-color: #efcbe6;
+	border: 2px solid #571946 ;
+    border-bottom: 2px solid #571946;
+    padding: 15px;
+	text-align: justify;
+	overflow: auto;
+    color: #571946;
+    font-weight: 700;
+    font-family: 'Coming Soon', helvetica;
     
+}
 
+#glavna, #podstablo1, #podstablo2, #podstablo3, #podpodstablo1, #podpodstablo2
+{
+    list-style-type: none;
+}
 
+#podstablo1, #podstablo2, #podstablo3, #podpodstablo1, #podpodstablo2
+{
+    list-style-type: none;
+    display: none;
+}
+
+#podpodstablo1
+{
+    list-style-image: url(slike/staricon.png);
+}
+
+#podpodstablo2
+{
+    list-style-image: url(slike/staricon.png);
+}
+
+#podstablo2
+{
+    list-style-image: url(slike/staricon.png);
+}
+
+#podstablo3
+{
+    list-style-image: url(slike/staricon.png);
+}
 
 
