@@ -355,7 +355,7 @@ table#cijene td {
     color: #571946;
     margin:30px;
     width: 400px;
-    height: 330px;
+    height: 380px;
     border: 2px solid #571946;
     border-radius: 5px;
     padding-left: 10px;   
@@ -440,10 +440,12 @@ table#cijene td {
     font-family: 'Coming Soon', helvetica;
     border: 2px solid #571946; 
     border-radius: 15px; 
-   
     margin-left: 29px;
     color: #571946;
     padding: 15px; 
+    margin-top: 10px; 
+    margin-right: 200px; 
+    
 }
 
 .drustvenemreze > h3
